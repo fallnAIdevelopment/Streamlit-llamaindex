@@ -1,4 +1,4 @@
-# GenAI Starter - Llamaindex - Restack
+# G1 - Llamaindex - Restack
 
 An example of how to deploy a [LangChain](https://www.llamaindex.ai/) application with [Streamlit](https://streamlit.io/) with Restack.
 
